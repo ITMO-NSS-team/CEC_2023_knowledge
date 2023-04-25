@@ -175,8 +175,8 @@ if __name__ == '__main__':
     ''' Parameters of the experiment '''
     write_csv = False
     print_results = True
-    max_iter_number = 10
-    distrib = []  # [] or distrib1 or distrib2 or distrib3 or distrib4
+    max_iter_number = 1
+    distrib = {}  # {} or distrib1 or distrib2 or distrib3 or distrib4
     title = 'df0'
 
 
